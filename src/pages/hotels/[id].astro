@@ -1,0 +1,26 @@
+---
+import { HotelsControllerCreator as controller } from '@/infrastructure';
+import type { Hotel } from '@/domain';
+import { HotelPage } from '@/components';
+import LayoutDetails from '@/layouts/LayoutDetails.astro';
+
+export async function getStaticPaths() {
+  const data = await await controller()
+    ?.getHotelsData()
+    .then((response) => response);
+
+  return data.map((hotel: Hotel) => {
+    return {
+      params: { id: hotel.id },
+      props: { hotel },
+    };
+  });
+}
+
+const { id } = Astro.params;
+const { hotel }: { hotel: Hotel } = Astro.props;
+---
+
+<LayoutDetails title={`Booking App - Hotel ${hotel.name}`} name={hotel.name} image_url={hotel.image_url} id={id}>
+  <HotelPage hotel={hotel} client:load client:only />
+</LayoutDetails>

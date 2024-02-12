@@ -1,0 +1,16 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { UpdateBookingPage } from '@/components';
+export const prerender = false;
+const { id } = Astro.params;
+if (!id) {
+  return new Response(null, {
+    status: 404,
+    statusText: 'Not found',
+  });
+}
+---
+
+<Layout title={`Booking App - Booking ${id}`}>
+  <UpdateBookingPage client:load client:only bookingId={id} />
+</Layout>

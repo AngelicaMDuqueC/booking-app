@@ -1,0 +1,12 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { HotelsControllerCreator as controller } from '@/infrastructure';
+
+import { HotelsPage } from '@/components';
+
+const hotels = await controller()?.getHotelsData();
+---
+
+<Layout title='Booking App - Hotels'>
+  <HotelsPage client:load client:only hotels={hotels} />
+</Layout>

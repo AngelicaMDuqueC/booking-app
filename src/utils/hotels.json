@@ -1,0 +1,473 @@
+[
+  {
+    "location": { "city": "Brookhaven", "country": "Greece" },
+    "rooms": [
+      {
+        "id": "cbb7adb1-5d2f-465e-9165-2e231a27a530",
+        "type": "Suite",
+        "capacity": 4,
+        "price": 325,
+        "imageUrl": "https://picsum.photos/seed/Nlrik/640/480",
+        "amenities": ["Balcony", "Ocean View", "Spa", "TV", "Mini Bar"]
+      },
+      {
+        "id": "a0398b79-b553-4b8a-a32f-e4d0cc85be10",
+        "type": "Suite",
+        "capacity": 2,
+        "price": 406,
+        "imageUrl": "https://loremflickr.com/640/480?lock=8852348134752256",
+        "amenities": ["Spa", "Mini Bar"]
+      },
+      {
+        "id": "03d41ed7-b63c-4010-a0a6-6d45593eedf9",
+        "type": "Standard Room",
+        "capacity": 2,
+        "price": 280,
+        "imageUrl": "https://loremflickr.com/640/480?lock=4779225586335744",
+        "amenities": ["Spa", "Mini Bar"]
+      }
+    ],
+    "rating": 3.5,
+    "distance_to_airport": 5.338284381432459,
+    "image_url": "https://picsum.photos/seed/IpRYZW/640/480",
+    "name": "Grand Pacific Hotel",
+    "id": "8466d8c4-0a2e-4e88-9823-7bb612c75e58"
+  },
+  {
+    "location": { "city": "Bozeman", "country": "Mauritania" },
+    "rooms": [
+      {
+        "id": "6d60a437-557c-4fdb-9b1e-4927e1bb14fa",
+        "type": "Deluxe Room",
+        "capacity": 6,
+        "price": 186,
+        "imageUrl": "https://loremflickr.com/640/480?lock=3875748324573184",
+        "amenities": ["Ocean View", "TV", "Spa", "Balcony", "Wi-Fi"]
+      },
+      {
+        "id": "c1a3f274-6f97-484c-952c-80981007bf56",
+        "type": "Standard Room",
+        "capacity": 4,
+        "price": 428,
+        "imageUrl": "https://picsum.photos/seed/i2bUU4sB/640/480",
+        "amenities": ["Spa", "Wi-Fi", "Mini Bar", "Ocean View"]
+      },
+      {
+        "id": "02bbf3f6-cdf0-4b4c-8e14-e72b6c893177",
+        "type": "Suite",
+        "capacity": 4,
+        "price": 344,
+        "imageUrl": "https://loremflickr.com/640/480?lock=5568899758161920",
+        "amenities": ["Balcony", "Wi-Fi", "TV"]
+      }
+    ],
+    "rating": 1.5,
+    "distance_to_airport": 22.3744075873401,
+    "image_url": "https://picsum.photos/seed/LhQxpPW1g/640/480",
+    "name": "Lakeview Hotel",
+    "id": "51285416-890a-4d29-8e28-77f07929f3e2"
+  },
+  {
+    "location": { "city": "National City", "country": "Poland" },
+    "rooms": [
+      {
+        "id": "831db1c0-ab59-43bf-b5c5-15dea94acc2a",
+        "type": "Deluxe Room",
+        "capacity": 4,
+        "price": 207,
+        "imageUrl": "https://picsum.photos/seed/r4GdQ/640/480",
+        "amenities": ["TV", "Mini Bar", "Wi-Fi", "Balcony", "Spa"]
+      },
+      {
+        "id": "843b1164-eae3-4450-aea2-f6de05122155",
+        "type": "Suite",
+        "capacity": 6,
+        "price": 315,
+        "imageUrl": "https://picsum.photos/seed/3MlBC1VT/640/480",
+        "amenities": ["Spa", "Balcony", "Wi-Fi"]
+      },
+      {
+        "id": "7cc07cc9-738f-403f-a6a2-3876abded6f3",
+        "type": "Deluxe Room",
+        "capacity": 4,
+        "price": 472,
+        "imageUrl": "https://picsum.photos/seed/hYr3G/640/480",
+        "amenities": ["Mini Bar", "TV"]
+      },
+      {
+        "id": "954175ae-4ca7-4a90-a28b-aeb24f0a349f",
+        "type": "Standard Room",
+        "capacity": 6,
+        "price": 368,
+        "imageUrl": "https://loremflickr.com/640/480?lock=8273862403817472",
+        "amenities": ["Wi-Fi", "Mini Bar", "TV", "Spa", "Ocean View", "Balcony"]
+      },
+      {
+        "id": "897133ca-54b3-4736-8310-e3b87529ac50",
+        "type": "Deluxe Room",
+        "capacity": 6,
+        "price": 372,
+        "imageUrl": "https://picsum.photos/seed/DYLxLQsIu/640/480",
+        "amenities": ["Mini Bar", "Balcony", "Spa", "TV"]
+      },
+      {
+        "id": "43feae53-62bb-4ea6-8ed8-fb7b13bfd7aa",
+        "type": "Standard Room",
+        "capacity": 4,
+        "price": 266,
+        "imageUrl": "https://picsum.photos/seed/jTtK0W7v/640/480",
+        "amenities": ["Wi-Fi"]
+      }
+    ],
+    "rating": 2.75,
+    "distance_to_airport": 46.79842459689826,
+    "image_url": "https://loremflickr.com/640/480?lock=4795226973536256",
+    "name": "Sunset Resort",
+    "id": "e046bf90-f10c-4d5b-bf86-915e5fa04edd"
+  },
+  {
+    "location": { "city": "New Raquelburgh", "country": "Iraq" },
+    "rooms": [
+      {
+        "id": "6d60a437-557c-4fdb-9b1e-4927e1bb14fa",
+        "type": "Deluxe Room",
+        "capacity": 6,
+        "price": 186,
+        "imageUrl": "https://loremflickr.com/640/480?lock=3875748324573184",
+        "amenities": ["Ocean View", "TV", "Spa", "Balcony", "Wi-Fi"]
+      },
+      {
+        "id": "c1a3f274-6f97-484c-952c-80981007bf56",
+        "type": "Standard Room",
+        "capacity": 4,
+        "price": 428,
+        "imageUrl": "https://picsum.photos/seed/i2bUU4sB/640/480",
+        "amenities": ["Spa", "Wi-Fi", "Mini Bar", "Ocean View"]
+      },
+      {
+        "id": "02bbf3f6-cdf0-4b4c-8e14-e72b6c893177",
+        "type": "Suite",
+        "capacity": 4,
+        "price": 344,
+        "imageUrl": "https://loremflickr.com/640/480?lock=5568899758161920",
+        "amenities": ["Balcony", "Wi-Fi", "TV"]
+      }
+    ],
+    "rating": 1,
+    "distance_to_airport": 31.95947264507413,
+    "image_url": "https://picsum.photos/seed/K00mTPsCG/640/480",
+    "name": "Golden Sands Inn",
+    "id": "7fefe517-bdf0-47bd-8380-05922be43adb"
+  },
+  {
+    "location": { "city": "Bettyhaven", "country": "French Guiana" },
+    "rooms": [
+      {
+        "id": "cbb7adb1-5d2f-465e-9165-2e231a27a530",
+        "type": "Suite",
+        "capacity": 4,
+        "price": 325,
+        "imageUrl": "https://picsum.photos/seed/Nlrik/640/480",
+        "amenities": ["Balcony", "Ocean View", "Spa", "TV", "Mini Bar"]
+      },
+      {
+        "id": "a0398b79-b553-4b8a-a32f-e4d0cc85be10",
+        "type": "Suite",
+        "capacity": 2,
+        "price": 406,
+        "imageUrl": "https://loremflickr.com/640/480?lock=8852348134752256",
+        "amenities": ["Spa", "Mini Bar"]
+      },
+      {
+        "id": "03d41ed7-b63c-4010-a0a6-6d45593eedf9",
+        "type": "Standard Room",
+        "capacity": 2,
+        "price": 280,
+        "imageUrl": "https://loremflickr.com/640/480?lock=4779225586335744",
+        "amenities": ["Spa", "Mini Bar"]
+      }
+    ],
+    "rating": 3.5,
+    "distance_to_airport": 29.444286208599806,
+    "image_url": "https://picsum.photos/seed/o0HygQcTb/640/480",
+    "name": "Royal Palace Resort",
+    "id": "9dde9ccf-5a15-4d47-80c7-863e618b2ef9"
+  },
+  {
+    "location": { "city": "Lake Jaiden", "country": "Curacao" },
+    "rooms": [
+      {
+        "id": "d6a3f675-d7b3-4701-85eb-4e10396ada18",
+        "type": "Deluxe Room",
+        "capacity": 2,
+        "price": 105,
+        "imageUrl": "https://picsum.photos/seed/FO0ODp/640/480",
+        "amenities": ["Spa", "TV", "Ocean View"]
+      },
+      {
+        "id": "23c21fd6-082e-415e-a8db-07dbeebf18a0",
+        "type": "Deluxe Room",
+        "capacity": 2,
+        "price": 231,
+        "imageUrl": "https://picsum.photos/seed/HEFyHd/640/480",
+        "amenities": ["Balcony"]
+      }
+    ],
+    "rating": 4.5,
+    "distance_to_airport": 31.349801012780517,
+    "image_url": "https://loremflickr.com/640/480?lock=7807130228752384",
+    "name": "Pinecrest Lodge",
+    "id": "e4499031-9117-4a19-a127-0af1d88257cb"
+  },
+  {
+    "location": { "city": "New Hansstead", "country": "Chad" },
+    "rooms": [
+      {
+        "id": "d6a3f675-d7b3-4701-85eb-4e10396ada18",
+        "type": "Deluxe Room",
+        "capacity": 2,
+        "price": 105,
+        "imageUrl": "https://picsum.photos/seed/FO0ODp/640/480",
+        "amenities": ["Spa", "TV", "Ocean View"]
+      },
+      {
+        "id": "23c21fd6-082e-415e-a8db-07dbeebf18a0",
+        "type": "Deluxe Room",
+        "capacity": 2,
+        "price": 231,
+        "imageUrl": "https://picsum.photos/seed/HEFyHd/640/480",
+        "amenities": ["Balcony"]
+      },
+      {
+        "id": "7000ffc0-582e-47b7-a704-023ce60267da",
+        "type": "Standard Room",
+        "capacity": 6,
+        "price": 482,
+        "imageUrl": "https://picsum.photos/seed/RALBIFWKk2/640/480",
+        "amenities": ["Wi-Fi", "Ocean View", "TV"]
+      }
+    ],
+    "rating": 5,
+    "distance_to_airport": 8.692105791997164,
+    "image_url": "https://picsum.photos/seed/vTVyMkZFU/640/480",
+    "name": "Starlight Hotel",
+    "id": "458a21bc-99d1-4399-9d30-67e498f86927"
+  },
+  {
+    "location": { "city": "West Tracy", "country": "Romania" },
+    "rooms": [
+      {
+        "id": "d6a3f675-d7b3-4701-85eb-4e10396ada18",
+        "type": "Deluxe Room",
+        "capacity": 2,
+        "price": 105,
+        "imageUrl": "https://picsum.photos/seed/FO0ODp/640/480",
+        "amenities": ["Spa", "TV", "Ocean View"]
+      },
+      {
+        "id": "23c21fd6-082e-415e-a8db-07dbeebf18a0",
+        "type": "Deluxe Room",
+        "capacity": 2,
+        "price": 231,
+        "imageUrl": "https://picsum.photos/seed/HEFyHd/640/480",
+        "amenities": ["Balcony"]
+      },
+      {
+        "id": "7000ffc0-582e-47b7-a704-023ce60267da",
+        "type": "Standard Room",
+        "capacity": 6,
+        "price": 482,
+        "imageUrl": "https://picsum.photos/seed/RALBIFWKk2/640/480",
+        "amenities": ["Wi-Fi", "Ocean View", "TV"]
+      }
+    ],
+    "rating": 1.25,
+    "distance_to_airport": 47.912129366071895,
+    "image_url": "https://picsum.photos/seed/1PMVKQ/640/480",
+    "name": "Ocean Breeze Resort",
+    "id": "6b02f293-d17f-47ad-b843-bae385ece17b"
+  },
+  {
+    "location": { "city": "Gibsonbury", "country": "Sweden" },
+    "rooms": [
+      {
+        "id": "cbb7adb1-5d2f-465e-9165-2e231a27a530",
+        "type": "Suite",
+        "capacity": 4,
+        "price": 325,
+        "imageUrl": "https://picsum.photos/seed/Nlrik/640/480",
+        "amenities": ["Balcony", "Ocean View", "Spa", "TV", "Mini Bar"]
+      },
+      {
+        "id": "a0398b79-b553-4b8a-a32f-e4d0cc85be10",
+        "type": "Suite",
+        "capacity": 2,
+        "price": 406,
+        "imageUrl": "https://loremflickr.com/640/480?lock=8852348134752256",
+        "amenities": ["Spa", "Mini Bar"]
+      },
+      {
+        "id": "03d41ed7-b63c-4010-a0a6-6d45593eedf9",
+        "type": "Standard Room",
+        "capacity": 2,
+        "price": 280,
+        "imageUrl": "https://loremflickr.com/640/480?lock=4779225586335744",
+        "amenities": ["Spa", "Mini Bar"]
+      }
+    ],
+    "rating": 3.25,
+    "distance_to_airport": 24.980706116184592,
+    "image_url": "https://loremflickr.com/640/480?lock=8489347263234048",
+    "name": "Paradise Retreat",
+    "id": "2e522d57-1a20-454d-94d0-8fe0c41762b9"
+  },
+
+  {
+    "location": { "city": "Lake Taya", "country": "Lithuania" },
+    "rooms": [
+      {
+        "id": "e4f826a9-0b20-4d75-822c-b6aa82c59345",
+        "type": "Deluxe Room",
+        "capacity": 6,
+        "price": 214,
+        "imageUrl": "https://picsum.photos/seed/tiDv6qJ6/640/480",
+        "amenities": ["Wi-Fi", "TV"]
+      },
+      {
+        "id": "3eb5feef-6eb5-4079-973f-c96cfca05bea",
+        "type": "Suite",
+        "capacity": 6,
+        "price": 283,
+        "imageUrl": "https://picsum.photos/seed/BinB5pBH/640/480",
+        "amenities": ["Ocean View", "TV", "Balcony", "Wi-Fi"]
+      },
+      {
+        "id": "6e6ca06d-2005-4ce6-884b-1b7d5ef18557",
+        "type": "Standard Room",
+        "capacity": 4,
+        "price": 116,
+        "imageUrl": "https://picsum.photos/seed/RVVcoYU/640/480",
+        "amenities": ["Mini Bar", "TV", "Ocean View"]
+      }
+    ],
+    "rating": 3,
+    "distance_to_airport": 12.158257585950196,
+    "image_url": "https://picsum.photos/seed/BUnNu94/640/480",
+    "name": "Beachfront Inn",
+    "id": "aef0d300-755c-453d-8af3-2b7173aa2d9b"
+  },
+  {
+    "location": { "city": "New Estherfield", "country": "Saint Helena" },
+    "rooms": [
+      {
+        "id": "859276af-cb0f-49d0-88de-d9f585bb945e",
+        "type": "Standard Room",
+        "capacity": 6,
+        "price": 181,
+        "imageUrl": "https://loremflickr.com/640/480?lock=5144985731072000",
+        "amenities": ["Spa", "Mini Bar", "Balcony", "Ocean View"]
+      },
+      {
+        "id": "4b053276-278d-4482-96c5-5e43547a2e64",
+        "type": "Deluxe Room",
+        "capacity": 6,
+        "price": 91,
+        "imageUrl": "https://picsum.photos/seed/gE2eC/640/480",
+        "amenities": ["Balcony", "Spa", "Wi-Fi", "Mini Bar", "Ocean View"]
+      }
+    ],
+    "rating": 4.5,
+    "distance_to_airport": 10.938647757051513,
+    "image_url": "https://picsum.photos/seed/IP0ci/640/480",
+    "name": "Azure Skies Hotel",
+    "id": "5439644d-3a6f-480f-b71f-cefb17e9cbcd"
+  },
+  {
+    "location": { "city": "Haagtown", "country": "Croatia" },
+    "rooms": [
+      {
+        "id": "bad19e8d-37e9-42ec-803a-54befb61eb46",
+        "type": "Suite",
+        "capacity": 2,
+        "price": 71,
+        "imageUrl": "https://picsum.photos/seed/7VVlqASkPR/640/480",
+        "amenities": ["Balcony", "Wi-Fi", "Spa"]
+      }
+    ],
+    "rating": 3.5,
+    "distance_to_airport": 21.17055991780944,
+    "image_url": "https://picsum.photos/seed/ISlYPf1a/640/480",
+    "name": "Willow Creek Lodge",
+    "id": "3d9528bd-bf79-4aab-962a-9cb41b97ed7e"
+  },
+  {
+    "location": { "city": "Rylanfurt", "country": "Cambodia" },
+    "rooms": [
+      {
+        "id": "1fc01950-5ae4-439f-ba44-c229e5460ef4",
+        "type": "Deluxe Room",
+        "capacity": 6,
+        "price": 143,
+        "imageUrl": "https://picsum.photos/seed/rdOS415W/640/480",
+        "amenities": ["TV", "Balcony", "Wi-Fi", "Mini Bar", "Spa"]
+      }
+    ],
+    "rating": 4.25,
+    "distance_to_airport": 41.09828558913432,
+    "image_url": "https://loremflickr.com/640/480?lock=7492190362140672",
+    "name": "Alpine Chalet",
+    "id": "71fdf24f-80e2-4e17-9938-e585268f5ca5"
+  },
+  {
+    "location": { "city": "Gottliebtown", "country": "Democratic Republic of the Congo" },
+    "rooms": [
+      {
+        "id": "06c60f03-bf4c-4381-aa7d-3464ae57bad4",
+        "type": "Deluxe Room",
+        "capacity": 4,
+        "price": 322,
+        "imageUrl": "https://loremflickr.com/640/480?lock=8299436706889728",
+        "amenities": ["Mini Bar", "Spa", "Wi-Fi", "Ocean View"]
+      },
+      {
+        "id": "83003c5d-03bd-4d66-83a3-8aef6b7b550d",
+        "type": "Deluxe Room",
+        "capacity": 6,
+        "price": 55,
+        "imageUrl": "https://picsum.photos/seed/ZGvXm/640/480",
+        "amenities": ["Wi-Fi", "Mini Bar", "Ocean View", "TV", "Balcony"]
+      }
+    ],
+    "rating": 4.75,
+    "distance_to_airport": 5.703651653369889,
+    "image_url": "https://picsum.photos/seed/OVP2Y/640/480",
+    "name": "Moonlight Manor",
+    "id": "ba34d7c0-ff06-4b42-a956-8e47ec2185e9"
+  },
+  {
+    "location": { "city": "East Marcelina", "country": "Maldives" },
+    "rooms": [
+      {
+        "id": "fe6ff63e-69a7-4a54-9bc5-6f55ec55167c",
+        "type": "Standard Room",
+        "capacity": 4,
+        "price": 452,
+        "imageUrl": "https://picsum.photos/seed/lAktWatm/640/480",
+        "amenities": ["Wi-Fi", "Spa", "Balcony", "Mini Bar", "TV", "Ocean View"]
+      },
+      {
+        "id": "e668cf33-b7ee-43dc-84ed-83dbaef44cff",
+        "type": "Standard Room",
+        "capacity": 4,
+        "price": 180,
+        "imageUrl": "https://loremflickr.com/640/480?lock=5095793897766912",
+        "amenities": ["TV", "Mini Bar", "Ocean View"]
+      }
+    ],
+    "rating": 3.25,
+    "distance_to_airport": 43.656767431879416,
+    "image_url": "https://picsum.photos/seed/qZLg8UclE/640/480",
+    "name": "Palm Tree Resort",
+    "id": "f70878d1-76cf-4e73-aebb-475c488fd2e7"
+  }
+]

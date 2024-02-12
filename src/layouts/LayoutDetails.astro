@@ -1,0 +1,26 @@
+---
+import { HeroSection } from '@/components';
+import { ThemeModeScript } from 'flowbite-react';
+const { title, name, image_url, id } = Astro.props;
+---
+
+<!doctype html>
+<html lang='en'>
+  <head>
+    <ThemeModeScript />
+    <meta charset='UTF-8' />
+    <meta name='description' content={`Detailed description about ${name}`} />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <link rel='icon' type='image/svg+xml' href='/favicon.svg' />
+    <meta name='generator' content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body class='flex min-h-screen flex-col'>
+    <header class='h-1/5'>
+      <HeroSection title={name} subtitle={''} backgroundImageUrl={image_url} client:load />
+    </header>
+    <main class='container mx-auto my-8 flex-grow px-4 sm:px-6 lg:px-8'>
+      <slot />
+    </main>
+  </body>
+</html>
